@@ -7,4 +7,4 @@ Program Explanation: This program is a program that will classify an iris, which
 1. You can access the raw data [here](https://github.com/hosiajosindra/iris-classification/blob/main/Iris(1).csv) within this repo.
 2. All of the scripts are being kept [here](https://github.com/hosiajosindra/iris-classification/blob/main/iris-classification.ipynb).
 
-#### I hope this will be useful someday, thankyou for seeing !✌🏻
+#### I hope this will be useful someday, thankyou for seeing ! 🥳
